@@ -1,0 +1,5 @@
+Code,Name,Use Case,Version,Status,Tags,Thread ID
+A0101,File Manager Assistant,Manage and explore local files in Streamlit UI,v1.0,Ready,"UI, Files, Utility",0410T03
+A0102,LangChain Exporter,Export assistant logic to LangChain tool format,v1.1,Fixable,"LangChain, Tooling, Export",0411T21
+A0103,Streamlit Multipage Launcher,Generate a multipage Streamlit dashboard with auto-load,v1.2,Placeholder Only,"Streamlit, Navigation, UI",0403T11
+A0104,Audit Control Tower,Audit and monitor multiple assistant builds,v1.3,Ready,"Audit, Monitor, Dashboard",0413T06

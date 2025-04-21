@@ -1,0 +1,24 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS metadata
+.DS_Store
+
+# Environments
+.env
+venv/
+env/
+
+# Jupyter and logs
+.ipynb_checkpoints
+*.log
+
+# PyCharm and VSCode configs
+.idea/
+.vscode/
+
+# Output folders
+/outputs/

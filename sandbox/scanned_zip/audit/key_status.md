@@ -1,0 +1,36 @@
+# 🔍 Key Status Report
+
+- **AIRTABLE_API_KEY** → 💤 Optional / Not Supplied
+- **CLAUDE_API_KEY** → 💤 Optional / Not Supplied
+- **CLICKUP_API_KEY** → 💤 Optional / Not Supplied
+- **FIREBASE_PROJECT_ID** → 💤 Optional / Not Supplied
+- **GEMINI_API_KEY** → 💤 Optional / Not Supplied
+- **GITHUB_TOKEN** → 💤 Optional / Not Supplied
+- **GOOGLE_CREDENTIALS_JSON** → 💤 Optional / Not Supplied
+- **GOOGLE_CREDENTIALS_PATH** → ⚠️ Suspicious Format (Check)
+- **GUMROAD_API_KEY** → 💤 Optional / Not Supplied
+- **HUGGINGFACE_TOKEN** → 💤 Optional / Not Supplied
+- **JWT_SECRET** → 💤 Optional / Not Supplied
+- **LANGCHAIN_API_KEY** → 💤 Optional / Not Supplied
+- **NOTION_SECRET** → 💤 Optional / Not Supplied
+- **OAUTH_CLIENT_ID** → 💤 Optional / Not Supplied
+- **OAUTH_CLIENT_SECRET** → 💤 Optional / Not Supplied
+- **OPENAI_API_KEY** → 💤 Optional / Not Supplied
+- **PINECONE_API_KEY** → 💤 Optional / Not Supplied
+- **PINECONE_ENVIRONMENT** → 💤 Optional / Not Supplied
+- **REPLICATE_API_TOKEN** → 💤 Optional / Not Supplied
+- **SENDGRID_API_KEY** → 💤 Optional / Not Supplied
+- **SLACK_BOT_TOKEN** → 💤 Optional / Not Supplied
+- **SMTP_EMAIL** → 💤 Optional / Not Supplied
+- **SMTP_PASSWORD** → 💤 Optional / Not Supplied
+- **STRIPE_SECRET_KEY** → 💤 Optional / Not Supplied
+- **SUPABASE_KEY** → 💤 Optional / Not Supplied
+- **SUPABASE_URL** → 💤 Optional / Not Supplied
+- **TRELLO_TOKEN** → 💤 Optional / Not Supplied
+- **TWILIO_ACCOUNT_SID** → 💤 Optional / Not Supplied
+- **TWILIO_AUTH_TOKEN** → 💤 Optional / Not Supplied
+- **VERTEX_API_KEY** → 💤 Optional / Not Supplied
+- **VERTEX_PROJECT_ID** → 💤 Optional / Not Supplied
+- **WEAVIATE_API_KEY** → 💤 Optional / Not Supplied
+- **WEAVIATE_URL** → 💤 Optional / Not Supplied
+- **ZAPIER_WEBHOOK_URL** → 💤 Optional / Not Supplied

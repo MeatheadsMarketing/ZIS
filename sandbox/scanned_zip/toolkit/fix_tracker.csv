@@ -1,0 +1,3 @@
+Project,Fix_Status,Last_Action,Triggered_By,Notes,Last_Updated
+A0102,In Progress,Replaced Placeholder,#X,Needs `run_ui()` and st.header patch,2025-04-14 10:45
+A0103,Pending,Audit Flagged as Placeholder-Only,Audit Loop,,

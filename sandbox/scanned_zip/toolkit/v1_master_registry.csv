@@ -1,0 +1,5 @@
+Code,Name,Use Case,Version,Status,Tags,Thread ID,Tag,Fix_Status,Last_Updated,Last_Action,Notes
+A0101,File Manager Assistant,Manage and explore local files in Streamlit UI,v1.0,Ready,"UI, Files, Utility",0410T03,,,,,
+A0102,LangChain Exporter,Export assistant logic to LangChain tool format,v1.1,Fixable,"LangChain, Tooling, Export",0411T21,,In Progress,2025-04-14 10:45,Replaced Placeholder,Needs `run_ui()` and st.header patch
+A0103,Streamlit Multipage Launcher,Generate a multipage Streamlit dashboard with auto-load,v1.2,Placeholder Only,"Streamlit, Navigation, UI",0403T11,,Pending,,Audit Flagged as Placeholder-Only,
+A0104,Audit Control Tower,Audit and monitor multiple assistant builds,v1.3,Ready,"Audit, Monitor, Dashboard",0413T06,,,,,

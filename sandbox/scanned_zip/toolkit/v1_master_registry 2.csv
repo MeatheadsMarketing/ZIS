@@ -1,0 +1,4 @@
+Code,Name,Use Case,Version,Status,Tag,Fix_Status,Last_Updated,Last_Action,Notes
+A0101,File Assistant,Manage files via Streamlit UI,v1.0,Ready,Ready,Fixed,2025-04-14,Audit Complete,Stable
+A0102,LangChain Exporter,Export to LangChain tool format,v1.0,Fixable,Fixable,In Progress,2025-04-13,Placeholder Removed,Needs run_ui()
+A0103,Recovery Tracker,Track assistant fix workflow,v1.0,Placeholder Only,Placeholder Only,Pending,2025-04-12,Not started,
